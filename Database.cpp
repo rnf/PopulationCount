@@ -1,4 +1,4 @@
-// Database.cpp
+// Database.cpp - R. Freedman
 
 #include "Database.h"
 #include "PersonRecord.h"

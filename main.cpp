@@ -1,4 +1,4 @@
-// main.cpp - PopulationCount
+// main.cpp - PopulationCount - R. Freedman
 
 #include "Database.h"
 #include "PersonRecord.h"

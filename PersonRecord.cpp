@@ -1,4 +1,4 @@
-//PersonRecord.cpp
+//PersonRecord.cpp - R. Freedman
 
 #include "PersonRecord.h"
 

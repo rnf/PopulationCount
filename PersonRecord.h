@@ -1,4 +1,4 @@
-//PersonRecord.h
+//PersonRecord.h - R. Freedman
 #ifndef PERSON_RECORD_H
 #define PERSON_RECORD_H
 

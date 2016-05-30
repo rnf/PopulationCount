@@ -1,4 +1,4 @@
-// Database.h
+// Database.h - R. Freedman
 #ifndef DATABASE_H
 #define DATABASE_H
 
